@@ -1,0 +1,4 @@
+repository "O^O@nomiv@cloud"
+  path "/"
+    br "/main"
+    co "/main"

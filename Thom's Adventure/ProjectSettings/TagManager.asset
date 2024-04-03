@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Hallway
+  - Two doors
+  - Right
+  - Left
+  - After two doors
+  - Fall damage
+  - Dead
+  - Construction
+  - Door
+  - Button
+  - SlidingDoor
+  - SlidingDoor1
+  - SlidingDoor2
+  - SlidingDoor3
+  - SlidingDoor4
+  - SlidingDoor5
+  - Minecraft
+  - Key
+  - Weapon
+  - Rant
+  - Reset
+  - Contract
+  - Hallways
+  - Review
+  - UI
+  - Uwu
+  - NomiLeerTagsMaken
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - whatIsGround
+  - Water
+  - UI
+  - Player
+  - Camera
+  - PlayerShadow
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
